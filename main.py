@@ -163,4 +163,4 @@ async def daily(ctx):
     await ctx.send(f"10 daily credits have been added to your account, {ctx.author.mention}.")
 
 
-bot.run('your_bot_token_here')
+bot.run('MTI0NjUyNzc1NDEzNzI0MzgwOQ.GS6qQb.XsTufrbCQNLV4UA6cl6pmaeMddiyhOlXY1mq9I')
